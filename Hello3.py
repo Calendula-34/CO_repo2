@@ -1,6 +1,6 @@
-for i in range(4):
-    print('A', end='')
+for i in range(10):
+    print('F', end='')
     if i == 2:
         break
-    print('B', end='')
-print('C')
+    print('G', end='')
+print('OOOOOO')
